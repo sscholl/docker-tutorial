@@ -19,6 +19,7 @@ These contents are found in the sub directories.
 - shell (e.g. powershell, bash)
 
 Additional requirements under windows:
+- Windows 10
 - VT-x (information maybe outdated)
 
 Installation:
